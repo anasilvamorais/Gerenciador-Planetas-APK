@@ -21,11 +21,11 @@ class _TelaHistoricoState extends State<TelaHistorico> {
 
   // Carrega os planetas excluídos do histórico
   Future<void> _carregarHistorico() async {
-    final planetas = await _controlePlaneta.lerHistorico();
-    setState(() {
-      _historicoPlanetas = planetas;
-    });
-  }
+  final planetas = await _controlePlaneta.lerHistorico();
+  setState(() {
+    _historicoPlanetas = planetas;
+  });
+}
 
   // Restaura um planeta do histórico para a lista principal
   void _restaurarPlaneta(Planeta planeta) async {
