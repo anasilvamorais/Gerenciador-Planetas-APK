@@ -1,6 +1,6 @@
 # Gerenciador de Planetas - APK Flutter  
 
-Este repositório contém um aplicativo Flutter desenvolvido como parte de um projeto pessoal. O **Gerenciador de Planetas** permite cadastrar, visualizar, editar e excluir planetas, garantindo uma experiência fluida e intuitiva para os usuários.  
+Este repositório contém um aplicativo Flutter desenvolvido como parte de um projeto do curso Talento Tech. O **Gerenciador de Planetas** permite cadastrar, visualizar, editar e excluir planetas.
 
 ## Funcionalidades  
 
